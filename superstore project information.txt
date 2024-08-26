@@ -1,0 +1,12 @@
+ Project Name: Exploratory Data Analysis on Superstore 
+
+Objective: Conduct an in-depth Exploratory Data Analysis (EDA) on the Superstore dataset to uncover key business insights and trends.
+
+Process:
+=> Performed Univariate and Bivariate analysis to understand sales patterns and customer behavior.
+=> In Data Analysis I used advanced libraries of Python Numpy, Pandas, Matplotlib, Seaborn for data manipulation and visualization purpose.
+=> In EDA Univariate analysis and Bivariate analysis is performed and results are visualised. 
+=> Visualized trends and relationships within the data to highlight areas of opportunity and growth.
+=> From sales patterns to customer behavior, this analysis provided valuable insights into the factors driving business performance.
+
+Tools Used: Python, Pandas, Numpy, Matplotlib, Seaborn
